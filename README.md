@@ -101,7 +101,7 @@ let sample3;         // considered false
 ```
 
 Need more help on variables?
-([Tutorial on variables](https://javascript.info/variables)) ([w3schools reference](https://www.w3schools.com/js/js_variables.asp))
+([w3schools reference](https://www.w3schools.com/js/js_variables.asp))
 
 
 ---
